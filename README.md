@@ -21,6 +21,7 @@ Below is a flow diagram of the Single Player game logic. Not represented is the 
 
 ## Single Player
 In single player, the user must find all possible SETs. The user can take as much time as they want. The timer is the amount of time in seconds that has passed. When there are no more possible SETs to make, the game will revert to the main menu, updating the high score if the user beat the previous high score. By default, the first high score is an arbitrarily large number. Below we see one SET being made, with the cards remaining, score, and timer updating. The claimed cards are replaced. Invalid SETs will not update the score, and the cards will not be replaced.
+
 <img src="https://github.com/brandontran24/SET/blob/master/app/src/screenshots/singleplayer1a.png" width="250">     <img src="https://github.com/brandontran24/SET/blob/master/app/src/screenshots/singleplayer2.png" width="250">
 
 ## Multi Player
