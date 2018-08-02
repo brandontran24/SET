@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pickture</string>
+    <string name="caption">Pick an image:</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="image1">setLogo</string>
+    <string name="img2">cbo1</string>
+    <string name="img3">cbo2</string>
+    <string name="img4">cbo3</string>
+    <string name="title_activity_multi_player">MultiPlayer</string>
+    <string name="title_activity_rules">Rules</string>
+</resources>
