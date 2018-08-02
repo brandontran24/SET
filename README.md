@@ -1,4 +1,4 @@
-# SET!!
+# SET!
 <img src="https://github.com/brandontran24/SET/blob/master/app/src/screenshots/SET.png" width="1000">
 An Android implementation of SET! for ECE 150: Mobile Embedded Systems
 
