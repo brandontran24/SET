@@ -1,6 +1,10 @@
-# SET!
+# SET!!
 <img src="https://github.com/brandontran24/SET/blob/master/app/src/screenshots/SET.png" width="1000">
 An Android implementation of SET! for ECE 150: Mobile Embedded Systems
+
+## Contributors
+Brandon Tran  
+Danielle Robinson
 
 # Rules
 In <a href="https://en.wikipedia.org/wiki/Set_(card_game)">SET!</a>, the goal is to find valid SETs. Cards in SET! contain four parameters: number, symbol, shading, and color. A SET is formed by three cards that satisfy the following conditions:
